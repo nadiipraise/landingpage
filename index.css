@@ -1,0 +1,637 @@
+.desktop-child,
+.desktop-item {
+  position: absolute;
+  top: 925px;
+  left: calc(50% + 173px);
+  width: 679px;
+  height: 1291px;
+}
+.desktop-item {
+  top: 0;
+  left: calc(50% - 720px);
+  width: 764px;
+  height: 679px;
+}
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke);
+  width: 1440px;
+  height: 443px;
+}
+.matheus-todos-os {
+  position: absolute;
+  top: 409px;
+  left: 560px;
+  line-height: 100%;
+  font-weight: 300;
+  display: inline-block;
+  width: 319px;
+}
+.facebook,
+.instagram,
+.linkedin,
+.social-media1,
+.twitter {
+  position: absolute;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.social-media1 {
+  top: 0;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  width: 123.2px;
+  height: 26px;
+}
+.facebook,
+.instagram,
+.linkedin,
+.twitter {
+  top: 58px;
+  line-height: 100%;
+  font-weight: 300;
+  width: 68.7px;
+}
+.facebook,
+.instagram,
+.twitter {
+  top: 98px;
+  width: 80.7px;
+}
+.instagram,
+.twitter {
+  top: 138px;
+  width: 81.8px;
+}
+.twitter {
+  top: 178px;
+  width: 57.8px;
+}
+.social-media {
+  position: absolute;
+  top: 105px;
+  left: 1133px;
+  width: 123.2px;
+  height: 194px;
+}
+.aboutus,
+.careers,
+.company1,
+.contact-us,
+.partners {
+  position: absolute;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.company1 {
+  top: 0;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  width: 85.2px;
+  height: 26px;
+}
+.aboutus,
+.careers,
+.contact-us,
+.partners {
+  top: 58px;
+  line-height: 100%;
+  font-weight: 300;
+  width: 69.4px;
+}
+.careers,
+.contact-us,
+.partners {
+  top: 98px;
+  width: 58.5px;
+}
+.contact-us,
+.partners {
+  top: 138px;
+  width: 63.4px;
+}
+.contact-us {
+  top: 178px;
+  width: 84.2px;
+}
+.company {
+  position: absolute;
+  top: 105px;
+  left: 870px;
+  width: 85.2px;
+  height: 194px;
+}
+.blog,
+.cuistomer-stories,
+.glossery,
+.guides,
+.resources1 {
+  position: absolute;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.resources1 {
+  top: 0;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  width: 102.1px;
+  height: 26px;
+}
+.blog,
+.cuistomer-stories,
+.glossery,
+.guides {
+  top: 58px;
+  line-height: 100%;
+  font-weight: 300;
+  width: 55.8px;
+}
+.blog,
+.cuistomer-stories,
+.glossery {
+  top: 98px;
+  width: 35.8px;
+}
+.cuistomer-stories,
+.glossery {
+  top: 138px;
+  width: 141px;
+}
+.glossery {
+  top: 178px;
+  width: 69.4px;
+}
+.resources {
+  position: absolute;
+  top: 105px;
+  left: 551px;
+  width: 141px;
+  height: 194px;
+}
+.building-digital-products {
+  margin: 0;
+}
+.building-digital-products-container,
+.digital-agency {
+  position: absolute;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.building-digital-products-container {
+  top: 66px;
+  line-height: 150%;
+  font-weight: 300;
+  width: 189.3px;
+}
+.digital-agency {
+  top: 0;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  width: 139.7px;
+  height: 26px;
+}
+.footer,
+.logo {
+  position: absolute;
+  top: 105px;
+  left: 183.3px;
+  width: 189.3px;
+  height: 114px;
+}
+.footer {
+  top: 3444px;
+  left: 0;
+  width: 1440px;
+  height: 443px;
+}
+.button-child,
+.contact-section-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  width: 1065px;
+  height: 450.4px;
+}
+.button-child {
+  border-radius: var(--br-5xs);
+  background-color: var(--color-lightsteelblue);
+  width: 167px;
+  height: 48px;
+}
+.contact-us1 {
+  position: absolute;
+  top: 10px;
+  left: 31px;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 105px;
+  height: 28px;
+}
+.button {
+  position: absolute;
+  top: 302.3px;
+  left: 615px;
+  width: 167px;
+  height: 48px;
+  text-align: center;
+  color: var(--color-white);
+}
+.be-a-part,
+.we-work-with-container {
+  position: absolute;
+  top: 218.2px;
+  left: 615px;
+  line-height: 27.5px;
+  display: inline-block;
+  width: 360px;
+  height: 52.1px;
+}
+.be-a-part {
+  top: 100.1px;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  width: 361px;
+  height: 102.1px;
+}
+.customer-support-icon {
+  position: absolute;
+  top: 0;
+  left: 75px;
+  width: 450px;
+  height: 450.4px;
+  object-fit: cover;
+}
+.contact-section {
+  position: absolute;
+  top: 2855px;
+  left: 188px;
+  width: 1065px;
+  height: 450.4px;
+}
+.testimonial-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-whitesmoke);
+  width: 345px;
+  height: 334px;
+}
+.lorem-ipsum-dolor,
+.mark-smith {
+  position: absolute;
+  text-transform: capitalize;
+}
+.lorem-ipsum-dolor {
+  top: 225px;
+  left: 32px;
+  line-height: 130%;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 281px;
+  height: 77px;
+}
+.mark-smith {
+  top: 170px;
+  left: 124px;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  text-align: left;
+}
+.western-man-4975942-4159828-3-icon {
+  position: absolute;
+  top: 31px;
+  left: 107px;
+  border-radius: var(--br-77xl-5);
+  width: 131px;
+  height: 132px;
+  object-fit: cover;
+}
+.testimonial-3 {
+  position: absolute;
+  top: 181px;
+  left: 720px;
+  width: 345px;
+  height: 334px;
+}
+.vera-duncan {
+  position: absolute;
+  top: 170px;
+  left: 118px;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  text-transform: capitalize;
+  text-align: left;
+}
+.testimonial-2 {
+  position: absolute;
+  top: 181px;
+  left: 360px;
+  width: 345px;
+  height: 334px;
+}
+.andrew-rathore {
+  position: absolute;
+  top: 170px;
+  left: 103px;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  text-transform: capitalize;
+  text-align: left;
+}
+.testimonial-1 {
+  position: absolute;
+  top: 181px;
+  left: 0;
+  width: 345px;
+  height: 334px;
+}
+.read-what-other,
+.testimonials {
+  position: absolute;
+  top: 40px;
+  left: 314px;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 435.7px;
+  height: 102.3px;
+}
+.testimonials {
+  top: 0;
+  left: 471px;
+  font-size: var(--span-text-size);
+  line-height: 27.5px;
+  text-align: left;
+  width: 122px;
+  height: 24px;
+}
+.testimonial-section {
+  position: absolute;
+  top: 2204px;
+  left: 188px;
+  width: 1065px;
+  height: 515px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.custome-section-child {
+  position: absolute;
+  top: 346.6px;
+  left: 0;
+  width: 23.2px;
+  height: 14.7px;
+}
+.commonly-used-in-container,
+.custome-plugin {
+  position: absolute;
+  top: 224.9px;
+  left: 0;
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 392.2px;
+  height: 83.2px;
+}
+.custome-plugin {
+  top: 97px;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  width: 435.7px;
+  height: 102.3px;
+}
+.businessman-analyzing-data-icon {
+  position: absolute;
+  top: 0;
+  left: 615px;
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+}
+.custome-section {
+  position: absolute;
+  top: 1618px;
+  left: 188px;
+  width: 1065px;
+  height: 450px;
+}
+.branding-section-child {
+  position: absolute;
+  top: 346.6px;
+  left: 629.3px;
+  width: 23.2px;
+  height: 14.7px;
+}
+.branding-design,
+.commonly-used-in-container1 {
+  position: absolute;
+  top: 224.9px;
+  left: 629.3px;
+  line-height: 27.5px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 392.2px;
+  height: 83.2px;
+}
+.branding-design {
+  top: 97px;
+  font-size: var(--font-size-29xl);
+  line-height: 100%;
+  width: 435.7px;
+  height: 102.3px;
+}
+.designer-team-working-on-creat-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 450px;
+  height: 450px;
+  object-fit: cover;
+}
+.branding-section {
+  position: absolute;
+  top: 1032px;
+  left: 188px;
+  width: 1065px;
+  height: 450px;
+}
+.logos-container-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke);
+  width: 915px;
+  height: 86px;
+}
+.company-logo-icon {
+  position: relative;
+  width: 140px;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.company-logo-icon1,
+.company-logo-icon2,
+.company-logo-icon3 {
+  position: relative;
+  width: 121px;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.company-logo-icon2,
+.company-logo-icon3 {
+  width: 163px;
+}
+.company-logo-icon3 {
+  width: 98px;
+}
+.logos {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 867px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.logos-container {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  width: 915px;
+  height: 86px;
+}
+.trusted-by-4000 {
+  position: absolute;
+  top: 0;
+  left: 344px;
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+.companies-section {
+  position: absolute;
+  top: 778px;
+  left: 263px;
+  width: 915px;
+  height: 118px;
+  color: var(--color-slategray);
+}
+.contact-us2 {
+  position: absolute;
+  top: 10px;
+  left: 31px;
+  line-height: 27.5px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+.button1 {
+  position: absolute;
+  top: 353px;
+  left: 0;
+  width: 167px;
+  height: 48px;
+  text-align: center;
+  color: var(--color-white);
+}
+.building-digital-products1,
+.digital-agency-is-container {
+  position: absolute;
+  left: 0;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.digital-agency-is-container {
+  top: 258px;
+  font-size: var(--body-text-size);
+  line-height: 27.5px;
+  width: 525px;
+  height: 56px;
+}
+.building-digital-products1 {
+  top: 42px;
+  font-size: 64px;
+  line-height: 100%;
+  width: 540px;
+}
+.hero-section {
+  position: absolute;
+  top: 171px;
+  left: 188px;
+  width: 1065px;
+  height: 450px;
+}
+.about,
+.home {
+  top: 0;
+  line-height: 27.5px;
+}
+.home {
+  position: absolute;
+  left: 672px;
+  text-transform: lowercase;
+}
+.about {
+  left: 764px;
+}
+.about,
+.contact,
+.digital-agency2,
+.testimonials1 {
+  position: absolute;
+  text-transform: lowercase;
+}
+.testimonials1 {
+  top: 0;
+  left: 858px;
+  line-height: 27.5px;
+}
+.contact,
+.digital-agency2 {
+  top: 2px;
+  left: 1011px;
+}
+.digital-agency2 {
+  left: 0;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.navbar {
+  position: absolute;
+  top: 46px;
+  left: 188px;
+  width: 1076px;
+  height: 28px;
+  font-size: var(--body-text-size);
+}
+.desktop {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 3887px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--span-text-size);
+  color: var(--color-darkslategray);
+  font-family: var(--body-text);
+}
